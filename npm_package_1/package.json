@@ -1,0 +1,15 @@
+{
+  "name": "binary_search_functions",
+  "version": "1.0.1",
+  "description": "Its a function that searches an element in an array using binary serach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary",
+    "binary-search"
+  ],
+  "author": "Pratik Dayma",
+  "license": "ISC"
+}
