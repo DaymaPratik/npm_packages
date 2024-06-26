@@ -1,6 +1,6 @@
 {
   "name": "operations-on-array",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "In this package you will get sum of array function and many more functions that perform operations on array",
   "main": "index.js",
   "scripts": {
